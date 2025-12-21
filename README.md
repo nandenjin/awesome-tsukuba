@@ -213,8 +213,9 @@
 ## SNS
 
 - Misskeyインスタンス
-  - [misskey.until.tsukuba.one](https://misskey.until.tsukuba.one)
-  - [tsukubaskey.com](https://tsukubaskey.com)
+  - <s>[misskey.until.tsukuba.one](https://misskey.until.tsukuba.one)</s>
+  - <s>[tsukubaskey.com](https://tsukubaskey.com)</s>
+  - [mi.tsukuba.dev](https://mi.tsukuba.dev)
 
 ## イベント
 
@@ -259,7 +260,6 @@
 - [2024年度筑波大学文芸部【新】 Advent Calendar 2024](https://adventar.org/calendars/11177)
 - [jsys Advent Calendar 2024](https://adventar.org/calendars/10646)
 - [筑波大学吹奏楽団Advent Calendar 2024 Advent Calendar 2024](https://adventar.org/calendars/10432)
-
 
 ##### その他
 
