@@ -220,6 +220,54 @@
 
 ### アドベントカレンダー
 
+#### 2025
+
+##### 学群・学類
+
+- [klis Advent Calendar 2025](https://adventar.org/calendars/11538)
+- [mast Advent Calendar 2025](https://adventar.org/calendars/11747)
+- [coins Advent Calendar 2025](https://adventar.org/calendars/11747)
+- [比文アドカレ Advent Calendar 2025](https://adventar.org/calendars/12136)
+- [2025_Tsukuba_biol Advent Calendar 2025](https://adventar.org/calendars/12205)
+- [coens Advent Calendar 2025](https://adventar.org/calendars/11784)
+- [esys Advent Calendar 2025](https://adventar.org/calendars/12376)
+
+##### サークル・学生団体
+
+- [jsys Advent Calendar 2025](https://adventar.org/calendars/11933)
+- [吹団アドカレ〜去年の分も埋まってないけどやってもいいいよねスペシャル〜 Advent Calendar 2025](https://adventar.org/calendars/12575)
+- [ねおぽりすアドベントカレンダー部2025🎵 Advent Calendar 2025](https://adventar.org/calendars/11745)
+- [げんしけんアドカレ Advent Calendar 2025](https://adventar.org/calendars/12194)
+
+##### その他
+
+- [かふぇおれ Advent Calendar 2025](https://adventar.org/calendars/11752)
+- [298production Advent Calendar 2025](https://adventar.org/calendars/12321)
+
+#### 2024
+
+##### 学群・学類
+
+- [biol2024 Advent Calendar 2024](https://adventar.org/calendars/10900)
+- [esys Advent Calendar 2024](https://adventar.org/calendars/10873)
+- [mast Advent Calendar 2024](https://adventar.org/calendars/10425)
+- [coins Advent Calendar 2024](https://adventar.org/calendars/10367)
+- [klis Advent Calendar 2024](https://adventar.org/calendars/10419)
+
+##### サークル・学生団体
+
+- [2024年度筑波大学文芸部【新】 Advent Calendar 2024](https://adventar.org/calendars/11177)
+- [jsys Advent Calendar 2024](https://adventar.org/calendars/10646)
+- [筑波大学吹奏楽団Advent Calendar 2024 Advent Calendar 2024](https://adventar.org/calendars/10432)
+
+
+##### その他
+
+- [かふぇおれ Advent Calendar 2024](https://adventar.org/calendars/9930)
+- [筑波大学AC入試 Advent Calendar 2024](https://adventar.org/calendars/10969)
+- [人・文 Advent Calendar 2024](https://adventar.org/calendars/10697)
+- [298 production Advent Calendar 2024](https://adventar.org/calendars/10509)
+
 #### 2023
 
 参考: [筑波大関連アドベントカレンダーまとめ2023](https://hackmd.io/@fcBHSyQ9RWyzkonRCnIVTQ/ByAVvxG4p)
@@ -248,6 +296,7 @@
 - [筑波NSミライラボ Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
 - [天久保 Advent Calendar 2023](https://adventar.org/calendars/8938)
 - [ITF.20生クソツイ集 Advent Calendar 2023](https://adventar.org/calendars/9230)
+- [かふぇおれ Advent Calendar 2023](https://adventar.org/calendars/9211)
 
 #### 2022
 
