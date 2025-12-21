@@ -226,7 +226,7 @@
 ##### 学群・学類
 
 - [klis Advent Calendar 2025](https://adventar.org/calendars/11538)
-- [mast Advent Calendar 2025](https://adventar.org/calendars/11747)
+- [mast Advent Calendar 2025](https://adventar.org/calendars/11736)
 - [coins Advent Calendar 2025](https://adventar.org/calendars/11747)
 - [比文アドカレ Advent Calendar 2025](https://adventar.org/calendars/12136)
 - [2025_Tsukuba_biol Advent Calendar 2025](https://adventar.org/calendars/12205)
